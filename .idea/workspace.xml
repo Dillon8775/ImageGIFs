@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837a6c64-7253-4895-aa10-8021880f06a4" name="Changes" comment="ok" />
+    <list default="true" id="837a6c64-7253-4895-aa10-8021880f06a4" name="Changes" comment="ok">
+      <change afterPath="$PROJECT_DIR$/Recipes/golden_speedrunner_nautilus_armor_crafting_recipe.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="129" />
+    <option name="cachedIndexableFilesCount" value="131" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -60,7 +62,7 @@
     "git-widget-placeholder": "the-speedrunner-mod",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/dillo/Desktop/Programming/Minecraft Modding/ImageGIFs/Advancements",
+    "last_opened_file_path": "C:/Users/dillo/Desktop/Programming/Minecraft Modding/ImageGIFs/Recipes",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,8 +74,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dillo\Desktop\Programming\Minecraft Modding\ImageGIFs\Advancements" />
       <recent name="C:\Users\dillo\Desktop\Programming\Minecraft Modding\ImageGIFs\Recipes" />
+      <recent name="C:\Users\dillo\Desktop\Programming\Minecraft Modding\ImageGIFs\Advancements" />
       <recent name="E:\Desktop\Programming\ImageGIFs" />
     </key>
   </component>
@@ -215,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781374412756</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ok">
+      <option name="closed" value="true" />
+      <created>1781726756452</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1781726756452</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
